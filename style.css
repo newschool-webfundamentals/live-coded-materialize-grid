@@ -1,0 +1,10 @@
+p {
+  font-family: serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
